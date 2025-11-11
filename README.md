@@ -36,8 +36,8 @@
   ## 🎓 Certifications
 
   🎯 **In Progress**
-  - CompTIA Security+ (Target: Q4 2025)
-  - CompTIA Network+ (Target: Q1 2026)
+  - CompTIA Security+ (Target: Q1 2026)
+  - CompTIA Network+ (Target: Q2 2026)
    
   ## 🚀 Featured Projects
 
