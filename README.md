@@ -41,20 +41,45 @@
    
   ## 🚀 Featured Projects
 
-  ### 🔒 [sec-levels](https://github.com/kt2saint-sec/sec-levels)
-  Production-ready CIS Benchmark hardening automation toolkit for Ubuntu 24.04 LTS. Achieves 93.6% automation coverage (280/313 CIS controls).
+  ### 🌟 [FuturePrintAI.com](https://futureprintai.com)
+  AI-powered design and printing platform enabling creative professionals to transform ideas into physical products with intelligent automation.
 
-  **Technologies**: Bash, Ansible, OpenSCAP, UFW, AppArmor, fail2ban
-  **Skills Demonstrated**: Security hardening, compliance frameworks, infrastructure automation, Linux administration, comprehensive testing methodology
+  **Status**: In Closed Beta  
+  **Technologies**: Next.js, FastAPI, AI/ML, Cloud Infrastructure  
+  **Skills Demonstrated**: Full-stack development, AI integration, cloud architecture, product design
 
   ---
 
-  ## 📚 Currently Learning
+  ### 📊 [PERT Calibration System](https://github.com/kt2saint-sec/pert-calibration-system)
+  Statistical project planning tool using Program Evaluation and Review Technique (PERT) with empirical self-calibration for accurate time estimation.
 
-  - Advanced threat detection and SIEM analysis
-  - Network security fundamentals & packet analysis
-  - Security automation and DevSecOps practices
-  - Cloud security (AWS/Azure)
+  **Status**: Completed  
+  **Technologies**: Python, Statistics, CLI Tools, JSONL  
+  **Skills Demonstrated**: Statistical analysis, data structures, command-line tool development, empirical calibration
+
+  ---
+
+  ### ⚡ [Redis Performance Optimization](https://github.com/kt2saint-sec/redis-optimization)
+  High-performance caching system optimization achieving 3x throughput improvement through configuration tuning and monitoring.
+
+  **Status**: Completed  
+  **Technologies**: Redis, Docker, Bash, Performance Tuning  
+  **Skills Demonstrated**: Performance optimization, caching strategies, monitoring, Docker containerization
+
+  ---
+
+  ### 🔒 [System Security Hardening](https://github.com/kt2saint-sec/security-hardening)
+  Comprehensive security configuration including SSH hardening, firewall rules (UFW), and secure credential management using GNOME Keyring.
+
+  **Status**: Completed  
+  **Technologies**: Linux, SSH, UFW, Security  
+  **Skills Demonstrated**: Security hardening, system administration, credential management, firewall configuration
+
+  ---
+
+  ## 📚 Current Focus
+
+  Editing "The Vibe Coders Bible" which is a book to assist vibe coders with the professional development knowledge they need to plan, create, and finish a project using a professional development workflow.
 
   ## 📫 Connect on X --> @kt2saint-sec
 
